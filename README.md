@@ -8,3 +8,10 @@
 SuperLukao/SuperLukao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Estou estudando na alura 
+Estou me desenvolvendo na liguagem javascript
+
+
+###**Entre em contato comigo**
